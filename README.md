@@ -97,7 +97,6 @@ In MongoDB, each document looks like:
 
 ## 🧐 Future Enhancements
 
-- Input cells to play Sudoku interactively.
 - Sudoku solver and hint system.
 - Difficulty levels (easy, medium, hard).
 - Timer and scoring.
