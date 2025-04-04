@@ -35,8 +35,6 @@ This project is a web-based **Sudoku puzzle game** built using **Next.js (App Ro
 │   └── mongodb.ts            # MongoDB connection utility
 ├── models/
 │   └── Sudoku.ts             # Mongoose schema/model
-├── scripts/
-│   └── insertPuzzles.ts      # Script to seed puzzles into DB
 ├── app/page.tsx              # Main game UI (client component)
 └── README.md
 ```
